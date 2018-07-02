@@ -1,0 +1,66 @@
+#!/bin/bash
+
+clear
+
+echo "****************************************************************"
+echo "* 1. Vytvorit tridu                                            *"
+echo "* 2. Vytvorit uzivatele/root (trida musi existovat)            *"
+echo "* 3. Vytvorit nekolik uzivatelu do tridy (trida musi existovat)*"
+echo "* 4. Smazat uzivatele ze tridy                                 *"
+echo "* 5. Smazat tridu (i s uzivateli)                              *"
+echo "* a. Vypsat studenty dle třídy                                 *"
+echo "* e  Vyprazdnit tridu                                          *"
+echo "* m  Presunout tridu                                           *"
+echo "* 6. Zadat cviceni tride/tridam                                *"
+echo "* 7. Zadat domaci ukol tride/tridam                            *"
+echo "* 8. Zobrazit informace o velikosti souborů uživatelů          *"
+echo "* 9. Repair Dat...znovu obnovi datove soubory                  *"
+echo "* 0. Konec                                                     *"
+echo "****************************************************************"
+
+read -n 1 chose
+
+case $chose in
+	1)
+	/root/utilities/addClass.sh
+	;;
+	2)
+	/root/utilities/newUser.sh
+	;;
+	3)
+	/root/utilities/AoEUserAdd.sh
+	;;
+	4)
+	/root/utilities/deleteUser.sh
+	;;
+	5)
+	/root/utilities/classDelete.sh
+	;;
+	6)
+	/root/utilities/giveStuff.sh
+	;;
+	7)
+	/root/utilities/giveDU.sh
+	;;
+	8)
+	/root/utilities/spaceInfo.sh
+	;;
+	9)
+	/root/utilities/update.sh
+	;;
+	e)
+	/root/utilities/refresh.sh
+	;;
+	m)
+	/root/utilities/move.sh
+	;;
+	a)
+	/root/utilities/showAll.sh
+	;;
+	*)
+	exit
+	;;
+esac
+
+admin || /root/admin
+
