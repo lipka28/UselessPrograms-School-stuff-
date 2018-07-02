@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shape>
+    <X1>148</X1>
+    <X2>108</X2>
+    <Y1>150</Y1>
+    <Y2>210</Y2>
+    <Color />
+    <Kind>2</Kind>
+  </Shape>
+  <Shape>
+    <X1>625</X1>
+    <X2>191</X2>
+    <Y1>135</Y1>
+    <Y2>136</Y2>
+    <Color />
+    <Kind>2</Kind>
+  </Shape>
+  <Shape>
+    <X1>352</X1>
+    <X2>155</X2>
+    <Y1>134</Y1>
+    <Y2>292</Y2>
+    <Color />
+    <Kind>2</Kind>
+  </Shape>
+</ArrayOfShape>

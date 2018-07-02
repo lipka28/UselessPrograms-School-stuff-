@@ -1,0 +1,17 @@
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\BitmapReader.exe
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\BitmapReader.pdb
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\bin\Debug\netcoreapp2.0\BitmapReader.exe.config
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+Z:\UTB\NET\cv2\BitmapReader\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb

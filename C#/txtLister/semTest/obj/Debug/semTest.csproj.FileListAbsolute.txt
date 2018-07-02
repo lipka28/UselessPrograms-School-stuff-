@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\bin\Debug\semTest.exe.config
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\bin\Debug\semTest.exe
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\bin\Debug\semTest.pdb
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.Form1.resources
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.Properties.Resources.resources
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.exe
+\\vmware-host\Shared Folders\UTB\NET\semTest\semTest\semTest\obj\Debug\semTest.pdb

@@ -1,0 +1,10 @@
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\bin\Debug\BitmapReader.exe.config
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\bin\Debug\BitmapReader.exe
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\bin\Debug\BitmapReader.pdb
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.csprojResolveAssemblyReference.cache
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.Form1.resources
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.Properties.Resources.resources
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.csproj.GenerateResource.Cache
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.csproj.CoreCompileInputs.cache
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.exe
+Z:\UTB\NET\cv2\BitmapReader\BitmapReader\obj\Debug\BitmapReader.pdb

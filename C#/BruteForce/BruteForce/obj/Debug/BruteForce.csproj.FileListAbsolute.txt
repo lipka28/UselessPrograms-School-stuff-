@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\bin\Debug\BruteForce.exe.config
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\bin\Debug\BruteForce.exe
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\bin\Debug\BruteForce.pdb
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.Form1.resources
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.Properties.Resources.resources
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.exe
+\\vmware-host\Shared Folders\UTB\NET\finalniPrace\BruteForce\BruteForce\obj\Debug\BruteForce.pdb
